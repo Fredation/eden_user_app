@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "543179084984",
+    "project_id": "edenuserapp",
+    "storage_bucket": "edenuserapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543179084984:android:0acb552b3ca8fd1fae904d",
+        "android_client_info": {
+          "package_name": "com.eden.user"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCN5VQWGYikR7LBypr5pkgQUVR2-MvMQNw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
