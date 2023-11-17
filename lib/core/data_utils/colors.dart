@@ -1,7 +1,8 @@
 import 'package:flutter/material.dart';
 
 class EdenColors {
-  static const Color primaryGreen = Color(0xff7CD695);
+  // static const Color primaryGreen = Color(0xff7CD695);
+  static const Color primaryGreen = Color(0xff01aa4d);
   static const Color background = Color(0xffFBFBFB);
   static const Color textColor = Color(0xff4F4F4F);
   static const Color lightTextColor = Color(0xffBFBFBF);
