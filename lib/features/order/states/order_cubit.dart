@@ -43,8 +43,8 @@ class OrderCubit extends Cubit<OrderState> {
       time: "",
     ),
     Step(
-      title: OrderStatus.orderDelivered.title,
-      subtitle: OrderStatus.orderDelivered.subTitle,
+      title: OrderStatus.orderArrived.title,
+      subtitle: OrderStatus.orderArrived.subTitle,
       time: "",
     ),
     Step(
